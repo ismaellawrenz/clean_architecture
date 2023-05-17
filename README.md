@@ -2,18 +2,6 @@
 
 Este é um projeto de exemplo que implementa um CRUD (Create, Read, Update, Delete) utilizando a Clean Architecture em Golang com PostgreSQL como banco de dados.
 
-## Pré-requisitos
-
-Certifique-se de ter os seguintes requisitos instalados em sua máquina:
-
-- Golang (versão X.X.X)
-- PostgreSQL (versão X.X.X)
-
-## Configuração do banco de dados
-
-1. Crie um banco de dados PostgreSQL.
-2. Configure as credenciais do banco de dados no arquivo `config.toml`.
-
 ## Instalação
 
 1. Clone este repositório:
